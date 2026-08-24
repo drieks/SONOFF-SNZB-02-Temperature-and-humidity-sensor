@@ -20,6 +20,8 @@ An alternative firmware version for the SONOFF SNZB-02 temperature and humidity 
 
 #### Order PCB of others for my projects - https://www.pcbway.com/setinvite.aspx?inviteid=550959
 
+![SONOFF SNZB-02 Temperature and humidity sensor](IMAGES/SNZB-02.png)
+
 ![SONOFF SNZB-02 Temperature and humidity sensor](https://github.com/smartboxchannel/SONOFF-SNZB-02-Temperature-and-humidity-sensor/blob/main/IMAGES/photo_2022-09-04_22-57-46.jpg) 
 
 ![SONOFF SNZB-02 Temperature and humidity sensor](https://github.com/smartboxchannel/SONOFF-SNZB-02-Temperature-and-humidity-sensor/blob/main/IMAGES/photo_2022-09-04_22-57-47.jpg) 
